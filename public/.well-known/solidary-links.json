@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "site": "urn:solidary:type:site",
+    "connection": "urn:solidary:type:connection",
+    "site_id": "urn:solidary:term:site_id",
+    "connections": {
+      "@id": "urn:solidary:term:connections",
+      "@container": "@set"
+    },
+    "connected_site": "urn:solidary:term:connected_site"
+  },
+  "@id": "https://jazbogross.github.io/start",
+  "@type": "site",
+  "site_id": "a1992239-d079-414f-9ea4-7515b9b7f03e",
+  "connections": []
+}
